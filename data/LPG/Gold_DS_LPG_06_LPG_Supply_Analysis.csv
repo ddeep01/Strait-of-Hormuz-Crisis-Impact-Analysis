@@ -1,0 +1,5 @@
+date,financial_year,year,lpg_production_mmt,lpg_imports_mmt,lpg_consumption_mmt,import_dependency_pct,domestic_production_share_pct,supply_gap_mmt,import_to_production_ratio,net_supply_mmt,supply_surplus_deficit_mmt
+2022-04-01,2022-23,2022,,,28.504,,,,,,
+2023-04-01,2023-24,2023,,,29.664,,,,,,
+2024-04-01,2024-25,2024,12.8,20.67,31.328,65.98,40.86,18.53,1.61,33.47,2.14
+2025-04-01,2025-26,2025,13.1,,33.212,,39.44,20.11,,,

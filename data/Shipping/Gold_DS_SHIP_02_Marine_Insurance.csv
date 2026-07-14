@@ -1,0 +1,25 @@
+date,financial_year,year,month,month_no,quarter,region,war_risk_premium_percent,premium_change_pct_points,premium_growth_pct,remarks
+2024-04-01,2024-25,2024,April,4,Q2,Middle East Gulf,0.22,,,Stable market conditions
+2024-05-01,2024-25,2024,May,5,Q2,Middle East Gulf,0.22,0.0,0.0,Stable market conditions
+2024-06-01,2024-25,2024,June,6,Q2,Middle East Gulf,0.22,0.0,0.0,Stable market conditions
+2024-07-01,2024-25,2024,July,7,Q3,Middle East Gulf,0.23,0.01,4.55,Regional tensions
+2024-08-01,2024-25,2024,August,8,Q3,Middle East Gulf,0.23,0.0,0.0,Stable market
+2024-09-01,2024-25,2024,September,9,Q3,Middle East Gulf,0.23,0.0,0.0,Stable market
+2024-10-01,2024-25,2024,October,10,Q4,Middle East Gulf,0.24,0.01,4.35,Moderate risk
+2024-11-01,2024-25,2024,November,11,Q4,Middle East Gulf,0.24,0.0,0.0,Moderate risk
+2024-12-01,2024-25,2024,December,12,Q4,Middle East Gulf,0.24,0.0,0.0,Moderate risk
+2025-01-01,2024-25,2025,January,1,Q1,Middle East Gulf,0.24,0.0,0.0,Stable market
+2025-02-01,2024-25,2025,February,2,Q1,Middle East Gulf,0.24,0.0,0.0,Stable market
+2025-03-01,2024-25,2025,March,3,Q1,Middle East Gulf,0.24,0.0,0.0,FY end
+2025-04-01,2025-26,2025,April,4,Q2,Middle East Gulf,0.24,0.0,0.0,Stable market
+2025-05-01,2025-26,2025,May,5,Q2,Middle East Gulf,0.25,0.01,4.17,Increasing tensions
+2025-06-01,2025-26,2025,June,6,Q2,Middle East Gulf,0.5,0.25,100.0,Hormuz crisis (reported level)
+2025-07-01,2025-26,2025,July,7,Q3,Middle East Gulf,0.45,-0.05,-10.0,Risk eases
+2025-08-01,2025-26,2025,August,8,Q3,Middle East Gulf,0.4,-0.05,-11.11,Elevated risk
+2025-09-01,2025-26,2025,September,9,Q3,Middle East Gulf,0.38,-0.02,-5.0,Elevated risk
+2025-10-01,2025-26,2025,October,10,Q4,Middle East Gulf,0.35,-0.03,-7.89,Market stabilizing
+2025-11-01,2025-26,2025,November,11,Q4,Middle East Gulf,0.33,-0.02,-5.71,Moderate risk
+2025-12-01,2025-26,2025,December,12,Q4,Middle East Gulf,0.32,-0.01,-3.03,Moderate risk
+2026-01-01,2025-26,2026,January,1,Q1,Middle East Gulf,0.3,-0.02,-6.25,Stable
+2026-02-01,2025-26,2026,February,2,Q1,Middle East Gulf,0.3,0.0,0.0,Stable
+2026-03-01,2025-26,2026,March,3,Q1,Middle East Gulf,0.3,0.0,0.0,FY end

@@ -1,0 +1,3 @@
+date,financial_year,year,total_production_lakh_mt,total_imports_lakh_mt,total_consumption_lakh_mt,import_dependency_pct,domestic_production_share_pct,supply_gap_lakh_mt,import_to_production_ratio,net_supply_lakh_mt,supply_surplus_deficit_lakh_mt
+2024-04-01,2024-25,2024,292.73,102.19,707.0,14.45,41.4,414.27,0.35,394.92,-312.08
+2025-04-01,2025-26,2025,284.97,67.8,720.0,9.42,39.58,435.03,0.24,352.77,-367.23

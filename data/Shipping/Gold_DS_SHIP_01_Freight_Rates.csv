@@ -1,0 +1,16 @@
+date,year,month,month_no,quarter,route,freight_rate_usd_per_day,monthly_change_usd,monthly_change_pct
+2024-04-01,2024,April,4,Q2,Middle East-India,27800,,
+2024-05-01,2024,May,5,Q2,Middle East-India,28150,350.0,1.26
+2024-06-01,2024,June,6,Q2,Middle East-India,28500,350.0,1.24
+2024-07-01,2024,July,7,Q3,Middle East-India,28900,400.0,1.4
+2024-08-01,2024,August,8,Q3,Middle East-India,29250,350.0,1.21
+2024-09-01,2024,September,9,Q3,Middle East-India,29500,250.0,0.85
+2024-10-01,2024,October,10,Q4,Middle East-India,30100,600.0,2.03
+2024-11-01,2024,November,11,Q4,Middle East-India,30600,500.0,1.66
+2024-12-01,2024,December,12,Q4,Middle East-India,31150,550.0,1.8
+2025-01-01,2025,January,1,Q1,Middle East-India,31800,650.0,2.09
+2025-02-01,2025,February,2,Q1,Middle East-India,32500,700.0,2.2
+2025-03-01,2025,March,3,Q1,Middle East-India,33250,750.0,2.31
+2025-04-01,2025,April,4,Q2,Middle East-India,34100,850.0,2.56
+2025-05-01,2025,May,5,Q2,Middle East-India,35500,1400.0,4.11
+2025-06-01,2025,June,6,Q2,Middle East-India,38900,3400.0,9.58
