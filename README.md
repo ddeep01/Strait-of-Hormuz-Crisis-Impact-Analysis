@@ -166,7 +166,7 @@ platforms, and industry publications.
 
 **Dashboard**
 
-![Timeline Analysis](visualizations/overall_analysis/Images/9.png)
+![Timeline Analysis](visualizations/overall_analysis/Images/8.png)
 
 ------------------------------------------------------------------------
 
