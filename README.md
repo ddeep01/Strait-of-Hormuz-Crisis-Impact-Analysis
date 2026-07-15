@@ -61,25 +61,18 @@ platforms, and industry publications.
 -   Reserve Bank of India (RBI)
 -   Ministry of Chemicals & Fertilizers
 -   Department of Fertilizers
--   Ministry of Commerce & Industry
 -   Directorate General of Commercial Intelligence and Statistics
     (DGCI&S)
 
 ## 🌍 International Organizations
 
 -   International Energy Agency (IEA)
--   World Bank
--   International Monetary Fund (IMF)
--   FAOSTAT
--   OECD
--   UN Comtrade
 -   International Fertilizer Association (IFA)
 
 ## 📈 Financial & Commodity Data
 
 -   Yahoo Finance
 -   Investing.com
--   Trading Economics
 -   World Bank Commodity Price Data (Pink Sheet)
 
 ## 🚢 Shipping & Maritime Data
@@ -87,7 +80,6 @@ platforms, and industry publications.
 -   MarineTraffic
 -   Lloyd's List Intelligence
 -   BIMCO
--   Clarksons Research
 
 ## 📊 Additional Reference Sources
 
