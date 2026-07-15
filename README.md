@@ -212,7 +212,7 @@ This project is created for **educational and research purposes**.
 
 ------------------------------------------------------------------------
 
-# 🤖 AI-Assisted Dashboard Design
+# Dashboard Design
 
 This project uses **Tableau** for data visualization and dashboard
 development.
